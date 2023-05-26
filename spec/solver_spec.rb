@@ -1,3 +1,4 @@
+require_relative '../solver'
 
 describe Solver do 
     context 'when testing the Solver class ' do 
