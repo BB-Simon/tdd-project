@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # Solver class which solves fictorial, reverse and fizzbuzz in ruby
 class Solver
   def factorial(num)
